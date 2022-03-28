@@ -1,4 +1,4 @@
-name: CondaMathiasVO
+name: CondaMathiasVO2
 dependencies:
   - python=3.6
   - numpy
