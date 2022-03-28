@@ -1,0 +1,4 @@
+name: MyEnvTest
+channels:
+  - defaults
+prefix: C:\Users\AlWi\Anaconda3\envs\MyEnvTest
